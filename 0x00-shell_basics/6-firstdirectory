@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m a=rwx my_first_directory
+mkdir -m u+wx my_first_directory
