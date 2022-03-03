@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_first_directory
+mkdir-m u+x my_first_directory
